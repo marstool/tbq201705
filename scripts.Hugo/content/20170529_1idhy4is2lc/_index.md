@@ -9,5 +9,5 @@ weight = 20
 {{< mymp4 mp4="20170529_1idhy4is2lc.mp4" >}}
 
      唐柏桥：简介海外民运（二） 
-     简介海外民运 
      https://www.youtube.com/watch?v=1idHY4is2lc 
+     简介海外民运 

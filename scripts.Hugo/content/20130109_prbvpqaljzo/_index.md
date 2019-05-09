@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20130109_prbvpqaljzo.mp4" >}}
 
-     唐柏橋在紐約反迫害集會上的演講 
      https://www.youtube.com/watch?v=PRBVPQALjzo 
      2012年4月23日唐柏橋在紐約反迫害集會上發表題為 我們正在書寫歷史 的演講。 
+     唐柏橋在紐約反迫害集會上的演講 

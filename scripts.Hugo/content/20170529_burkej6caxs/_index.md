@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20170529_burkej6caxs.mp4" >}}
 
-     唐柏桥：简介海外民运（三） 
      
      https://www.youtube.com/watch?v=bUrkEJ6cAxs 
+     唐柏桥：简介海外民运（三） 
