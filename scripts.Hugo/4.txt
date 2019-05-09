@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ls *.mp4 *.mp3 *.mkv| xargs -n 1 /bin/gen_index.and.create.dir.for.hugo.mp4mkvmp3.sh
+ls -d 20* |xargs -n 1 /bin/gen_index.json.title.decript.sh
