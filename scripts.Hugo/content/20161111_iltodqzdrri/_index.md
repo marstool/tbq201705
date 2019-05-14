@@ -9,5 +9,5 @@ weight = 20
 {{< mymp4 mp4="20161111_iltodqzdrri.mp4" >}}
 
      
-     https://www.youtube.com/watch?v=IlTOdQzDrrI 
      唐柏橋在2016年舊金山法輪功集會上的演講視頻 
+     https://www.youtube.com/watch?v=IlTOdQzDrrI 

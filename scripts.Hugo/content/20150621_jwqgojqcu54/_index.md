@@ -8,6 +8,6 @@ weight = 20
 
 {{< mymp4 mp4="20150621_jwqgojqcu54.mp4" >}}
 
-     
      https://www.youtube.com/watch?v=JwqgojQCU54 
+     
      Happy Father's Day! 
